@@ -38,5 +38,9 @@
   }
    ```
 
-
+## Testing the APIs
+To test the APIs, use the following Postman collection:  
+[Postman Collection JSON](## Testing the APIs
+To test the APIs, use the following Postman collection:  
+[Postman Collection JSON](ttps://gist.github.com/prave15/3cd002de804a596e69c47b810a5b96a1)
   

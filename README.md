@@ -33,3 +33,8 @@ A Django-based system to process image data from CSV files asynchronously.
 
 6. Start the Celery worker:
    celery -A image_processor worker --loglevel=info
+
+
+## Postman Collection
+You can find the Postman collection for testing the APIs here:  
+[Postman Collection JSON](https://gist.github.com/prave15/3cd002de804a596e69c47b810a5b96a1)
