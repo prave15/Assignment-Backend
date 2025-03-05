@@ -16,7 +16,7 @@ A Django-based system to process image data from CSV files asynchronously.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-processor.git
+   git clone https://github.com/prave15/Assignment-Backend.git
 
 2. Create and Activate Virtual Environment:
    pipenv shell
